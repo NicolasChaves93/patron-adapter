@@ -41,8 +41,8 @@ Para ejecutar este proyecto, asegúrate de contar con los siguientes requisitos:
 ## 🚀 Instalación y Ejecución
 1️⃣ Clonar el Repositorio
 ```
-git clone <URL_DEL_REPO>
-cd prueba
+git clone [patron-adapter](https://github.com/NicolasChaves93/patron-adapter.git)
+cd patron-adapter
 ```
 2️⃣ Crear y Activar un Entorno Virtual
 ```
